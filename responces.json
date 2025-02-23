@@ -9,5 +9,5 @@
     "thank you": "Glad to help!",
     "who made you": "I was created by a talented developer using Python.",
     "what can you do": "I can chat with you, answer questions, and help with basic information.",
-    "time": "I can't check the time yet, but I might learn that in the future!"
+    "time": "The current time is %t."
 }
