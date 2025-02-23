@@ -1,7 +1,13 @@
 {
-  "Hello": "Hi there! How can I help you today?",
-  "How are you?": "I'm just a bot, but I'm doing great! What about you?",
-  "What is your name?": "I'm ChatBot, your virtual assistant.",
-  "Bye": "Goodbye! Have a great day!",
-  "Thank you": "You're welcome! Let me know if you need anything else."
+    "hello": "Hi there! How can I assist you today?",
+    "hi": "Hello! What can I do for you?",
+    "how are you": "I'm just a bot, but I'm functioning perfectly!",
+    "what is your name": "I'm GyatChat, your friendly chatbot assistant.",
+    "help": "Sure! I can answer questions, provide information, or just chat with you.",
+    "bye": "Goodbye! Have a great day!",
+    "thanks": "You're welcome!",
+    "thank you": "Glad to help!",
+    "who made you": "I was created by a talented developer using Python.",
+    "what can you do": "I can chat with you, answer questions, and help with basic information.",
+    "time": "I can't check the time yet, but I might learn that in the future!"
 }
